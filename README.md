@@ -44,7 +44,9 @@ source venv/bin/activate     # or: venv\Scripts\activate on Windows
 pip install -U pip
 pip install ultralytics opencv-python numpy matplotlib jupyter
 
-🚀 Usage
+---
+
+## 🚀 Usage
 
 Run the demonstration notebook to visualize and test detection results.
 
@@ -62,7 +64,9 @@ Visualization of detection outputs
 ⚠️ Note: Trained model weights (best.pt) are not included in this repository due to institutional and privacy policies.
 Please contact the corresponding author for access to the trained model under research collaboration terms.
 
-⚙️ Model and Training Details
+---
+
+## ⚙️ Model and Training Details
 
 Base model: YOLOv11 medium sized model (Ultralytics, 2024)
 
@@ -76,7 +80,9 @@ Dataset: KUB radiographs (institutional anonymized dataset) - not included
 
 Evaluation metrics: Precision, Recall, mAP@50, mAP@50-95
 
-🔒 Data Availability
+---
+
+## 🔒 Data Availability
 
 The raw dataset (training/validation/test) is not publicly available due to patient privacy protection and institutional policy.
 Data may be shared upon reasonable request to the corresponding author.
@@ -89,7 +95,9 @@ College of Medicine, The Catholic University of Korea
 222 Banpo-daero, Seocho-gu, Seoul, 06591, Republic of Korea
 Phone: +82-2-2258-1934
 
-📖 Citation
+---
+
+## 📖 Citation
 
 If you find this repository useful, please cite our work:
 
@@ -103,7 +111,9 @@ Citation details will be updated once the manuscript is accepted for publication
   year={2025}
 }
 
-⚠️ License and Usage Notice
+---
+
+## ⚠️ License and Usage Notice
 
 This project uses the Ultralytics YOLOv11 framework, which is released under the AGPL-3.0 license.
 Accordingly:
@@ -113,11 +123,15 @@ Use of this repository is permitted for academic and research purposes only.
 Redistribution, integration into commercial software, or deployment as a cloud/web service requires a commercial license from Ultralytics.
 See: https://ultralytics.com/license
 
-🧾 Acknowledgments
+---
 
-We gratefully acknowledge the contribution of the Radiology AI Research Group at Seoul St. Mary's Hospital for support and feedback throughout this study.
+## 🧾 Acknowledgments
 
-🩻 Contact
+We gratefully acknowledge the contribution of the Department of Radiology at Seoul St. Mary's Hospital for support and feedback throughout this study.
+
+---
+
+## 🩻 Contact
 
 For questions, collaborations, or dataset/model access requests, please contact:
 
