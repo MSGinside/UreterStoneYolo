@@ -1,6 +1,9 @@
 # UreterStoneYOLO
 
 Python implementation for automated detection of ureteral stones on kidney–ureter–bladder (KUB) radiographs, using transfer learning with **YOLOv11**.
+
+
+Please refer to below official Ultralytic YOLO documentation for detailed use of the model and the package.
 **https://docs.ultralytics.com/ko/models/yolo11/**
 
 
