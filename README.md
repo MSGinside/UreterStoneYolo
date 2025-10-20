@@ -43,10 +43,10 @@ source venv/bin/activate     # or: venv\Scripts\activate on Windows
 # 3. Install dependencies
 pip install -U pip
 pip install ultralytics opencv-python numpy matplotlib jupyter
-
+```
 ---
 
-## 🚀 Usage
+## 👩‍💻 Author
 
 Run the demonstration notebook to visualize and test detection results.
 
