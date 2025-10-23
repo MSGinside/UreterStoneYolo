@@ -48,6 +48,7 @@ source venv/bin/activate     # or: venv\Scripts\activate on Windows
 # 3. Install dependencies
 pip install -U pip
 pip install ultralytics opencv-python numpy matplotlib jupyter
+
 ```
 ---
 
@@ -84,6 +85,8 @@ Optimizer: Automatically selected by Ultralytics (SGD, lr=0.01)
 Dataset: KUB radiographs (institutional anonymized dataset) - not included
 
 Evaluation metrics: Precision, Recall, mAP@50, mAP@50-95
+
+Best model checkpoint can be downloaded from here: https://drive.google.com/file/d/1-im0qmSlsIQ9Dg4lJ0H5zvOftUC9oe_S/view?usp=sharing
 
 ---
 
