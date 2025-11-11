@@ -21,7 +21,7 @@ The goal is to assist radiologists in identifying small ureteral stones with opt
 
 ## 👩‍💻 Author
 
-All source code in this repository was written by **Jiho Park, M.D.**
+All source code and model in this repository was written/trained by **Jiho Park, M.D.**
 
 **Jiho Park, M.D.**  
 Resident / Research Assistant  
