@@ -67,9 +67,6 @@ Example inference on sample radiographs
 
 Visualization of detection outputs
 
-⚠️ Note: Trained model weights (best.pt) are not included in this repository due to institutional and privacy policies.
-Please contact the corresponding author for access to the trained model under research collaboration terms.
-
 ---
 
 ## ⚙️ Model and Training Details
